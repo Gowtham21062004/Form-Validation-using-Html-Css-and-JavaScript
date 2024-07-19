@@ -47,3 +47,6 @@ button{
     width: 20%;
     margin-left: 156px;
 }
+.form textarea{
+    margin-right: 28px;
+}
