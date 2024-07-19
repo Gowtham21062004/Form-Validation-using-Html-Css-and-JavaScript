@@ -6,6 +6,7 @@ function  validate(){
     var address=document.getElementById("address").value;
 
     if(fname!="" && lname!="" && city!="" && number!="" && address!=""){
+         alert("Submitted Successefully");
       return true;    
      }
      else{
